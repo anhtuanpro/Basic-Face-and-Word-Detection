@@ -1,0 +1,1 @@
+C:\Users\olive\documents\visual studio 2015\Projects\WordsAndFacesDetection\WordsAndFacesDetection\WordsAndFacesDetection.csproj;x86
